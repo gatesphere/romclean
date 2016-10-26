@@ -1,5 +1,5 @@
 # romclean
-An incredibly naïve set of scripts to tidy up romsets -- attempts to convert a Goodset/TOSEC set to a 1G1R set.
+An incredibly naïve set of scripts to tidy up romsets -- attempts to convert a Goodset/TOSEC/No-intro romset to a 1G1R set.
 
 ## Installation
   - Clone the scripts into your homedir/bin
